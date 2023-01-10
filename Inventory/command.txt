@@ -1,0 +1,5 @@
+pyinstaller --name "TSL Part Inventory" --onefile --clean --icon "tsl_logo_side_TMl_icon.ico" --noconsole --onedir mainGUI.py
+
+copy ico and png file into folder
+copy Inventory Files folder into folder
+Run exe as admin in properties for shared network folder

@@ -1,0 +1,1 @@
+pyinstaller --onefile --clean --name "GoogleSheets V7.8" --icon=sheets_logo.ico GoogleSheets.py
